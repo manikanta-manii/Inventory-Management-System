@@ -8,7 +8,7 @@ int delete_product();
 void display_product();
 void modify_product();
 void inventory();
-
+/* Circular Linked List NOT UPDATED */
 struct node
 {   
     int product_no;
